@@ -6,7 +6,7 @@
 
 ### 👋 Sobre Mim
 
-Olá! Sou Renan, sou estudante de Engenharia de Computação e dedico meu tempo a decifrar problemas complexos e transformá-los em sistemas eficientes. Meu foco principal é a arquitetura e como a Inteligência Artificial pode ser integrada para otimizar processos e gerar impacto real. Sou movido por tecnologia que resolve desafios do mundo real.
+Olá! Sou Renan, sou estudante de Engenharia de Computação e dedico meu tempo a decifrar problemas complexos e transformá-los em sistemas eficientes. Meu foco principal é a arquitetura de computadores e como a Inteligência Artificial pode ser integrada para otimizar processos e gerar impacto real. Sou movido por tecnologia que resolve desafios do mundo real.
 
 Atualmente, busco oportunidades para aplicar meus conhecimentos em um ambiente profissional, colaborar em projetos desafiadores e aprender com equipes experientes.
 
