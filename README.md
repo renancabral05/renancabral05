@@ -1,6 +1,6 @@
 # Renan Cunningham
 
-**|Estudante de Engenharia de Computação no CEFET-MG|**
+**| Estudante de Engenharia de Computação no CEFET-MG |**
 
 ---
 
@@ -21,7 +21,7 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos em um ambiente p
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | Java, C |
-| **Sistemas** | Assembly (Acadêmico) |
+| **Sistemas** | Assembly (Acadêmico), Verilog HDL |
 
 ---
 
