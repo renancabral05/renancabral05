@@ -34,9 +34,9 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos em um ambiente p
 
 ### 💡 Interesses
 
-🧠 **Inteligência Artificial:** Explorando modelos para processamento de linguagem natural e visão computacional.
-🖥️ **Programação de Sistemas:** Entender como o software interage com o hardware em baixo nível.
-📊 **Algoritmos e Estruturas de Dados:** Paixão pela otimização e eficiência de código.
+- 🧠 **Inteligência Artificial:** Explorando modelos para processamento de linguagem natural e visão computacional.
+- 🖥️ **Programação de Sistemas:** Entender como o software interage com o hardware em baixo nível.
+- 📊 **Algoritmos e Estruturas de Dados:** Paixão pela otimização e eficiência de código.
 
 ---
 
